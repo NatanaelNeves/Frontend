@@ -1,0 +1,31 @@
+.hoje {
+    color: darkred;
+    text-decoration: underline;
+  }
+  .titulo {
+      color:rgba(4, 49, 8, 0.651);
+      text-decoration-style: double;
+      text-decoration:dashed;
+      background-color:rgba(250, 235, 215, 0.699);
+      
+  }
+  .amanha {
+    color: darkblue;
+    text-decoration: underline;
+  }
+  
+ 
+  
+  h2 a {
+    color: seagreen;
+    text-decoration: underline;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  body {
+    font-family: Arial;
+  }
+  
